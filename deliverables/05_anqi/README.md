@@ -2,6 +2,7 @@
 
 | File | What it is |
 |---|---|
+| `05_anqi.mp4` | my recording: the slides with my own voice (2 min 18 s, 1920 x 1080) |
 | `slides.pptx`, `slides.pdf` | 7 slides in the team deck's style; the narration is in each slide's speaker notes |
 | `script.md` | narration, one section per slide (about 2 minutes; how to cut it to 1 min 30 s is at the top) |
 | `figures/` | `gain_stable_vs_shift`, `controls_dailydialog` as PNG (1800 px wide) with the CSV behind each; `headline.csv`; `make_figures.py` redraws them |
@@ -9,7 +10,6 @@
 | `contribution.txt` | contribution note for the group reflection |
 | `build_slides.js` | rebuilds `slides.pptx` (pptxgenjs) |
 
-**Still to add (mine to record):** `05_anqi.mp4`, the slides with my own voice, as the other folders have.
 
 **Code shown in the video:** slide 03, `emotionshift/data/context.py` lines 40 to 46 (`dialogue_inputs`), also cell 2 of
 `notebooks/b4_context.ipynb`.
